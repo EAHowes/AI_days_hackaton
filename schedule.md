@@ -3,6 +3,8 @@ ovidia- API
 
 Ethan- figure out WatsonX
 -  create a model that predicts line
+-  train a watson NLU model to filter local posts etc.
+-  
 
 everyone:
 - create a bunch of exmaple posts: natural disaster, location. need a photo, a caption.
