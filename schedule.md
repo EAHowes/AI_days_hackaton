@@ -4,6 +4,7 @@ ovidia- API
 Ethan- figure out WatsonX
 -  create a model that predicts line
 -  train a watson NLU model to filter local posts etc.
+-  create model that curates posts for twitter bot
 -  
 
 everyone:
